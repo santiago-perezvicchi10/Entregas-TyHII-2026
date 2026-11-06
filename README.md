@@ -1,6 +1,6 @@
 # Entregas-TyHII-2026
 
-**Respositorio creado con el fin de entregar los trabajos del grupo "Clásica y Moderna" de la materia Técnicas y Herramientas 2 cursada el 2do semestre del año 2026.**
+**Respositorio creado con el fin de entregar los trabajos del grupo "Clásica y Moderna" de la materia Técnicas y Herramientas 2 cursada el 2do semestre del año 2026. AAAAAAAAAAA**
 
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/d8ca831c-42a0-4f83-a117-ca8aa49235a2" />
 
