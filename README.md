@@ -41,7 +41,7 @@ Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 |---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
 | Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com |https://github.com/santiago-perezvicchi10/Modulo-2---TyH-Modernas-II|
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
 | Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |
