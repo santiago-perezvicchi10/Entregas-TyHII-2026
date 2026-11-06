@@ -40,7 +40,7 @@ Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 | Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 2 |
 |---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
-| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com ||
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
